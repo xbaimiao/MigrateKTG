@@ -1,0 +1,14 @@
+main: # inject
+name: # inject
+version: ${version}
+authors:
+  - xbaimiao
+api-version: "1.13"
+folia-supported: true
+update-info: # inject
+depend-list: # inject
+relocate: # inject
+kotlin-version: # inject
+depend:
+  - KnapsackToGo4
+  - HuskSync
